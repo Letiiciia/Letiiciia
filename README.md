@@ -1,6 +1,6 @@
 ### Hi, I'm Letícia Ferreira Lima
 
-![GitHub Logo](/images/day)
+![GitHub Logo](/images/day.png)
 
 Tenho 21 anos
 Sou formada em Secretariado Executivo
