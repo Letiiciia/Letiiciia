@@ -1,10 +1,16 @@
-### Hi, I'm Letícia Ferreira Lima
+### Hi, I'm Letícia Lima 
+:virgo:
+/play sax
 
-![GitHub Logo](/images/day.png)
+I'm 21
+I have a degree in Executive Secretariat and work currently with Excel and VBA
 
-Tenho 21 anos
-Sou formada em Secretariado Executivo
-Domino Excel e VBA
+I like Data base, Dashboards and learn programation
+I speak :es: :us:
 
-Atualmente trabalho como assistente em uma Ouvidoria (Bancorbrás) e faço controles para análise de desempenho.
-Gosto muito da área de dados, Dashboards e controles analíticos.
+
+Two things that I love:
+:beer:
+:coffee:
+
+
