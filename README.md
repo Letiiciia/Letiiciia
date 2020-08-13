@@ -1,6 +1,10 @@
 ### Hi, I'm Letícia Lima 
 :virgo:
 
+<p align="center"> 
+<img src="https://github.com/Letiiciia/Letiiciia/blob/master/Imagem/day.png">
+
+</p>
 I'm 21
 I have a degree in Executive Secretariat and work currently with Excel and VBA
 
