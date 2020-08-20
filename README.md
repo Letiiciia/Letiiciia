@@ -7,7 +7,7 @@
 </p>
 I'm 21
 
-I have a degree in Executive Secretariat and work currently with Excel and VBA
+I have a degree in Executive Secretariat and work currently with CRM ,Excel and VBA
 
 I like Data base, Dashboards and learn programation
 
