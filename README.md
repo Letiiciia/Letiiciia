@@ -2,7 +2,7 @@
 :virgo:
 
 <p align="center"> 
-<img src="https://github.com/Letiiciia/Letiiciia/blob/master/Imagem/day.png" height="50" width ="300">
+<img src="https://github.com/Letiiciia/Letiiciia/blob/master/Imagem/day.png" height="500" width ="300">
 
 </p>
 I'm 21
