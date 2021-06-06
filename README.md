@@ -8,14 +8,12 @@
 
 I'm 21
 
-I have a degree in Executive Secretariat and work currently with CRM ,Excel and VBA
+I'm a jr developer and QA tester :heartbeat:
 
-I like Data base, Dashboards and learn programation
+I like to study and to learn programming :computer: :books:
 
-I like:
+Three things that I love:
 :cat:
-
-Two things that I love:
 :beer:
 :coffee:
 
