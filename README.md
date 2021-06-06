@@ -12,7 +12,7 @@ I'm a jr developer and QA tester :heartbeat:
 
 I like to study and to learn programming :computer: :books:
 
-Three things that I love:
+Three things that I love: <br>
 :cat: <br>
 :beer: <br>
 :coffee: <br>
