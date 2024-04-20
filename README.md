@@ -1,6 +1,5 @@
 <p align="center"> 
-<b>Hi, I'm Letícia Lima 
-:virgo:</b>
+<b>Hi, I'm Letícia Lima </b>
 
 <p align="center"> 
 <img src="https://github.com/Letiiciia/Letiiciia/blob/master/Imagem/me.jpg" height="50%" width ="50%">
