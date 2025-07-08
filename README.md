@@ -11,9 +11,5 @@ I'm a developer :heartbeat:
 
 I like to study and to learn programming :computer: :books:
 
-Three things that I love: <br>
-:cat: <br>
-:beer: <br>
-:coffee: <br>
 
 
